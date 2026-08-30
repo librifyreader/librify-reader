@@ -1,3 +1,7 @@
+<p align=center>
+  <img src="splash_lands.png" alt="Librify Reader Banner" width="100%">
+</p>
+
 # Librify Reader 📚
 
 O **Librify Reader** é um leitor de e-books e documentos moderno, de alta performance e acessível para Android. Desenvolvido nativamente em **Kotlin** com **Jetpack Compose**, o projeto segue padrões modernos de arquitetura para oferecer uma experiência de leitura fluida, inteligente e altamente personalizável.
